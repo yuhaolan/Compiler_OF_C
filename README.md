@@ -23,3 +23,6 @@ $ make
 $./lab2docal < file
 
 
+Please read RESULT.pdf file to see the examples and samples!!!
+
+
